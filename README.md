@@ -1,0 +1,1 @@
+# verint-single-spa
